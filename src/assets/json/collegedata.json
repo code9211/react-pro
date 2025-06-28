@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe@example.com",
+    "age": 20,
+    "major": "Computer Science",
+    "gpa": 3.8,
+    "courses": [
+      {
+        "course_id": "CS101",
+        "course_name": "Introduction to Programming",
+        "grade": "A"
+      },
+      {
+        "course_id": "MA101",
+        "course_name": "Calculus I",
+        "grade": "B+"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "jane.smith@example.com",
+    "age": 22,
+    "major": "Engineering",
+    "gpa": 3.5,
+    "courses": [
+      {
+        "course_id": "EG101",
+        "course_name": "Engineering Mechanics",
+        "grade": "B"
+      },
+      {
+        "course_id": "MA102",
+        "course_name": "Calculus II",
+        "grade": "A-"
+      }
+    ]
+  },
+    {
+    "id": 3,
+    "first_name": "David",
+    "last_name": "Lee",
+    "email": "david.lee@example.com",
+    "age": 21,
+    "major": "Biology",
+    "gpa": 3.9,
+    "courses": [
+      {
+        "course_id": "BI101",
+        "course_name": "General Biology",
+        "grade": "A"
+      },
+      {
+        "course_id": "CH101",
+        "course_name": "General Chemistry",
+        "grade": "A-"
+      }
+    ]
+  }
+]
