@@ -15,6 +15,7 @@ import CollegeData from "./CollegeData";
 import Hooks1 from "./Hook1";
 import Hooks2 from "./Hooks2";
 import SoftwareDeveloper from "./SoftwareDeveloper";
+import Employee from "./Employee";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -22,6 +23,8 @@ function App() {
   return (
     <>
       <div className="row">
+        <Employee></Employee>
+        <hr />
         <SoftwareDeveloper></SoftwareDeveloper>
         <hr />
         <Hooks2></Hooks2>
