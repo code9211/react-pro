@@ -36,7 +36,7 @@ function App() {
         <Reuse></Reuse>
         <hr />
         <h1>create a react application</h1>
-        <p>jai shree ram </p>
+        <p>jai shree ram ji</p>
         <h1>{count}</h1>
         <button onClick={() => setCount(count + 1)}>update</button>
         <Newfunction />
